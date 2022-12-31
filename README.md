@@ -1,0 +1,1 @@
+An airline reservation system implemented using the Object Oriented Programming approach. The users can login using their credentials, book, cancel or enquire about tickets for the flights available, etc.
